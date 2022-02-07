@@ -1,0 +1,27 @@
+{
+    "0": [],
+    "1": [
+        {
+            "difficulty": "Easy",
+            "mode": "BinToHex",
+            "gameId": 1,
+            "totalQuestions": 10,
+            "score": 4.518915672627606,
+            "answerTime": 22.1292025,
+            "answerTimePerQuestion": 2.2129202500000003,
+            "correctAnswers": 10,
+            "correctAnswerQuote": 1
+        },
+        {
+            "difficulty": "Easy",
+            "mode": "BinToHex",
+            "gameId": 1,
+            "totalQuestions": 10,
+            "score": 0.8652865709280723,
+            "answerTime": 11.5568649,
+            "answerTimePerQuestion": 1.1556864900000001,
+            "correctAnswers": 1,
+            "correctAnswerQuote": 0.1
+        }
+    ]
+}
